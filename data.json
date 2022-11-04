@@ -1,0 +1,102 @@
+{
+    "AVENGERS" : {
+        "Iron Man" : {
+            "name" : "Tony Stark",
+            "age" : 40,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Genius",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        },
+        "Captain America" : {
+            "name" : "Steve Rogers",
+            "age" : 100,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Super Soldier",
+            "points": {"stealth":6, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        },
+        "Thor" : {
+            "name" : "Thor Odinson",
+            "age" : 1000,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "God of Thunder",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        },
+        "Hulk" : {
+            "name" : "Bruce Banner",
+            "age" : 40,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Super Strength",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        },
+        "Black Widow" : {
+            "name" : "Natasha Romanoff",
+            "age" : 40,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Super Spy",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        },
+        "Hawkeye" : {
+            "name" : "Clint Barton",
+            "age" : 40,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Super Archer",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        }
+    },
+    "DC": {
+        "Batman" : {
+            "name" : "Bruce Wayne",
+            "age" : 40,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Genius",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        },
+        "Superman" : {
+            "name" : "Clark Kent",
+            "age" : 100,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Super Strength",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":6}
+        },
+        "Wonder Woman" : {
+            "name" : "Diana Prince",
+            "age" : 1000,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Super Strength",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        },
+        "Aquaman" : {
+            "name" : "Arthur Curry",
+            "age" : 40,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Super Strength",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        },
+        "Flash" : {
+            "name" : "Barry Allen",
+            "age" : 40,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Super Speed",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        },
+        "Cyborg" : {
+            "name" : "Victor Stone",
+            "age" : 40,
+            "height" : 1.88,
+            "weight" : 95,
+            "superpower" : "Super Strength",
+            "points": {"stealth":5, "speed":4, "intelligence":5, "durability":4, "energy":3, "fighting":5,"strength":5}
+        }
+    }
+}
